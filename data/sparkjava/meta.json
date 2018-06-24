@@ -1,12 +1,7 @@
 {
   "@version" : 1,
   "name" : "SparkJava",
-  "versions" : [
-    {
-      "name": "1.0.0-alpha",
-      "github" : "https://github.com/perwendel/spark-kotlin"
-    }
-  ],
+  "sourceCodeUrl" : "https://github.com/perwendel/spark",
   "tags" : ["rest", "api"],
   "official_site" : "http://sparkjava.com"
 }
