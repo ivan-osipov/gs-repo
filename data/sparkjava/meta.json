@@ -2,6 +2,6 @@
   "@version" : 1,
   "name" : "SparkJava",
   "sourceCodeUrl" : "https://github.com/perwendel/spark",
-  "tags" : ["rest", "api"],
+  "tags" : ["jvm", "java", "rest", "api"],
   "official_site" : "http://sparkjava.com"
 }
