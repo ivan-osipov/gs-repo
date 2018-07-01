@@ -1,0 +1,7 @@
+{
+  "@version" : 1,
+  "name" : "Jenetics",
+  "sourceCodeUrl" : "https://github.com/jenetics/jenetics",
+  "tags" : ["jvm", "java", "genetic algorithm", "optimization"],
+  "official_site" : "http://jenetics.io"
+}
