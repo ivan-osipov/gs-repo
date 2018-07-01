@@ -1,0 +1,7 @@
+{
+  "@version" : 1,
+  "name" : "Spring",
+  "sourceCodeUrl" : "https://github.com/spring-projects/spring-framework",
+  "tags" : ["jvm", "java", "framework"],
+  "official_site" : "https://spring.io"
+}
